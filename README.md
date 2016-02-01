@@ -31,6 +31,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Had some trouble in the beginning with implementing the refresh interface
+
 ## License
 
     Copyright [2016] [Pema Sherpa]
