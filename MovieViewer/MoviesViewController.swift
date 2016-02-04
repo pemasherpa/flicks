@@ -27,7 +27,6 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
         
         self.getMovieData()
         refreshControlAction(refreshControl)
-        
         // Do any additional setup after loading the view.
     }
     
@@ -61,6 +60,7 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
         cell.posterView.setImageWithURL(imageUrl!)
         }
         // print("row \(indexPath.row)")
+        
         return cell
     }
     
@@ -97,7 +97,6 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
                 }
                 
                 MBProgressHUD.hideHUDForView(self.view, animated: true)
-                
         })
         task.resume()
         
@@ -126,5 +125,4 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
         // Get the new view controller using segue.destinationViewController.
         // Pass the selected object to the new view controller.
     }
-
 }
