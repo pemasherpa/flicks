@@ -51,7 +51,7 @@ Had some trouble in the beginning with implementing the refresh interface
 
 
 
-# Project 2 - *Name of App Here*
+# Project 2 - *Flicks*
 
 **Flicks** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
@@ -93,7 +93,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [Pema Sherpa]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
