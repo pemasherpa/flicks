@@ -63,7 +63,7 @@ The following **required** functionality is completed:
 
 - [x] User can view movie details by tapping on a cell.
 - [x] User can select from a tab bar for either **Now Playing** or **Top Rated** movies.
-- [ ] Customize the selection effect of the cell.
+- [x] Customize the selection effect of the cell.
 
 The following **optional** features are implemented:
 
@@ -76,8 +76,7 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. Customizing the selection effect of the cell
-2. Modifying the icon size
+1. Modifying the icon size
 
 ## Video Walkthrough 
 
